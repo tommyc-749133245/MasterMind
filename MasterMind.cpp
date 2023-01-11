@@ -1,7 +1,3 @@
-/*student ID:53044907
-Student Name:Cheung Ho Lam
-Lab:L02
-*/
 #include <iostream>
 #include <ctime>
 #include <limits>
